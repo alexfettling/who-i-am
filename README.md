@@ -48,10 +48,5 @@
 
 ---
 
-## 🔗 Portfolio  
-
-👉 fettling.com.au (password: folio2026)
-
----
 
 ## 👋  
