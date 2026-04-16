@@ -1,81 +1,59 @@
-This repository captures how I approach product design in practice — combining systems thinking, high-quality interface craft and continuous iteration to create experiences that drive engagement and long-term customer value.
+This repository captures how I approach design by combining systems and design thinking, interface craft and iteration to create experiences that drive engagement and long-term value.
 
-My work is grounded in designing for Flybuys — a large-scale loyalty and engagement platform — where the challenge is not just usability, but making value tangible. I design experiences that help customers understand what they’re getting, feel motivated to act, and keep coming back.
+In my current role, I design experiences that make value clear, motivating and worth returning to.
 
+---
 
-🧠 How I Work
+## 🧠 How I work  
 
-I design across multiple layers of a product, moving between them depending on the problem:
+Ambiguity is where I live and breath.
 
-Product thinking — framing problems, shaping direction and defining the right outcomes
-Experience design — connecting journeys across touchpoints into something cohesive
-Interaction design — crafting clear, intuitive and engaging interfaces
-System thinking — building patterns and components that scale across teams
+- Product thinking — framing problems and shaping direction  
+- Experience design — connecting end-to-end journeys  
+- Interaction design — crafting clear, engaging interfaces  
+- System thinking — building patterns that scale  
 
-The goal is to create experiences that feel consistent, purposeful and worth returning to.
+---
 
-🔁 Designing for Engagement
+## 🔁 Designing for engagement  
 
-In a loyalty platform, engagement is the product.
+Meaningful engagement is core to everything
 
-My focus is on:
+- Designing for repeat behaviour and participation  
+- Making value clear and personal 
+- Creating moments of magic that feel rewarding and purposeful  
 
-Encouraging repeat behaviour and ongoing participation
-Making value clear, motivating and easy to act on
-Designing moments that feel rewarding, purposeful and engaging
+---
 
-This often means translating abstract concepts like points and rewards into experiences that feel tangible and meaningful.
+## 🧪 Experimentation mindset 
 
-🧪 Experimentation & Iteration
+- Use research and insight to frame problems  
+- Explore multiple directions and interaction patterns  
+- Rapidly prototype (including AI-assisted exploration)  
+- Iterate based on feedback to improve engagement
+- Repeat 
 
-I approach design with an experimentation mindset, using insights and iteration to find the right solution.
+---
 
-In one of my core case studies:
+## ⚙️ Systems & delivery  
 
-Framed the problem through research and behavioural insight
-Explored multiple directions and interaction patterns
-Used rapid prototyping (including AI-assisted exploration) to test ideas quickly
-Iterated based on feedback to improve engagement and conversion
+- Contributed to and scaled a design system across teams, brands and platforms 
+- Embedded design into engineering workflows (Storybook, and app native)  
 
-The process is simple but consistent:
+---
 
-Hypothesis → Design → Validate → Refine
+## 🤝 Collaboration  
 
-⚙️ Design Systems in Practice
+- Partner with product managers, engineers, brand and marketing
+- Facilitate workshops and align teams  
+- Turn ambiguity into clear outcomes  
 
-Alongside product work, I’ve contributed to and helped scale a unified design system across multiple teams and platforms.
+---
 
-Built around real product needs and constraints
-Designed to enable speed and consistency
-Closely aligned with engineering through tools like Storybook and native environments
+## 🔗 Portfolio  
 
-This ensures what’s designed is not only cohesive, but practical to deliver.
-
-🤝 Collaboration
-
-Great products are built together.
-
-I regularly:
-
-Partner with product managers to shape direction and priorities
-Work closely with engineers to bring ideas to life
-Facilitate workshops to align teams and navigate complexity
-
-A key part of my role is turning ambiguity into clear, actionable outcomes.
-
-🎯 What I Care About
-Designing experiences people want to come back to
-Turning insights into meaningful product decisions
-Balancing speed, quality and scalability
-Creating work that feels thoughtful, cohesive and well-crafted
-🔗 Portfolio
-
-Full case studies and visual work:
 👉 fettling.com.au (password: folio2026)
 
-👋
+---
 
-This repo is a snapshot of how I think, design and collaborate.
-Happy to chat more.
-
-— Alex Fettling
+## 👋  
