@@ -1,12 +1,10 @@
-This repository captures how I approach design by combining systems and design thinking, interface craft and iteration to create experiences that drive engagement and long-term value.
+### This repository captures how I approach design by combining systems and design thinking, interface craft and iteration to create experiences that drive engagement and long-term value.
 
-In my current role, I design experiences that make value clear, motivating and worth returning to.
+### In my current role, I design experiences that make value clear, personal, motivating and worth returning to.
 
 ---
 
-## 🧠 How I work  
-
-Ambiguity is where I live and breath.
+## 🧠 Ambiguity is where I live and breath.
 
 - Product thinking — framing problems and shaping direction  
 - Experience design — connecting end-to-end journeys  
@@ -15,9 +13,7 @@ Ambiguity is where I live and breath.
 
 ---
 
-## 🔁 Designing for engagement  
-
-Meaningful engagement is core to everything
+## 🔁 Meaningful engagement is core to everything
 
 - Designing for repeat behaviour and participation  
 - Making value clear and personal 
