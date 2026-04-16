@@ -1,3 +1,5 @@
+<img width="1729" height="1089" alt="AFettling" src="https://github.com/user-attachments/assets/8e8e77dc-8c34-4083-abd0-981be4d6125f" />
+
 ### This repository captures how I approach design by combining systems and design thinking, interface craft and iteration to create experiences that drive engagement and long-term value.
 
 ### In my current role, I design experiences that make value clear, personal, motivating and worth returning to.
